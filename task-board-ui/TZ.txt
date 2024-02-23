@@ -1,0 +1,16 @@
+Step 1 CRUD React Redux App
+Step 2 UpWork Apply till the end of the week
+
+
+Simple React Redux Application to learn how to work with functional components + Redux
+
+
+1. Create simple CRUD Express App to create Boards and to add tasks to boards
+
+2. Create Simple React APP with few pages and Boards page
+
+3. CRUD for boards and CRUD for tasks on each board
+
+
+Tutorials from: https://www.youtube.com/watch?v=06yVj8pcO5c&list=PLTP3E5bPW7944Ec1lfXzavqRHzxY5FigD
+
